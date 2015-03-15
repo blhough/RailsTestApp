@@ -1,0 +1,1004 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Person"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"er",
+				"exports"
+			],
+			[
+				"re",
+				"rebuild"
+			],
+			[
+				"draw",
+				"draw_active"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"To",
+				"ToggleExpanded"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mai",
+				"mainW"
+			],
+			[
+				"session",
+				"sessionDiv"
+			],
+			[
+				"DrawS",
+				"DrawSessionDivs"
+			],
+			[
+				"ses",
+				"sessionsLen"
+			],
+			[
+				"sessi",
+				"sessionDivs_"
+			],
+			[
+				"sessionD",
+				"sessionDivsLen"
+			],
+			[
+				"sess",
+				"sessionDivs_"
+			],
+			[
+				"sessiond",
+				"sessionDivsLen"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"temp",
+				"tempCourse"
+			],
+			[
+				"ex",
+				"expandedCache"
+			],
+			[
+				"th",
+				"thirdPanel"
+			],
+			[
+				"sec",
+				"second-panel"
+			],
+			[
+				"remo",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-b",
+				"border-bottom-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"time",
+				"time-table"
+			],
+			[
+				"af",
+				"afterPrint"
+			],
+			[
+				"be",
+				"beforePrint"
+			],
+			[
+				"border-w",
+				"border-bottom-width"
+			],
+			[
+				"widt",
+				"width	.width()"
+			],
+			[
+				"cl",
+				"classes_"
+			],
+			[
+				"cou",
+				"courses_"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"reu",
+				"resultsLen"
+			],
+			[
+				"resul",
+				"resultsLen"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"res",
+				"resultsPanelActive"
+			],
+			[
+				"addRes",
+				"addResultsList"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"eve",
+				"eventDiv"
+			],
+			[
+				"A",
+				"AddCustom"
+			],
+			[
+				"AddC",
+				"AddCustomElement"
+			],
+			[
+				"cus",
+				"customs_"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fi",
+				"fields_string"
+			],
+			[
+				"tect",
+				"textContent"
+			],
+			[
+				"Dra",
+				"DrawClassConflicts"
+			],
+			[
+				"course",
+				"courses_"
+			],
+			[
+				"cla",
+				"classes_"
+			],
+			[
+				"day",
+				"days_"
+			],
+			[
+				"classe",
+				"classesLen"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"vis",
+				"visibile"
+			],
+			[
+				"ud",
+				"undefined"
+			],
+			[
+				"Toggle",
+				"ToggleVisible"
+			],
+			[
+				"bin",
+				"BindEvents"
+			],
+			[
+				"Draw",
+				"DrawClass"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"div",
+				"divStyle"
+			],
+			[
+				"Div",
+				"divStyle"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"divS",
+				"divStyle_"
+			],
+			[
+				"C",
+				"CompileDivStyle"
+			],
+			[
+				"divSt",
+				"divStyleComp"
+			],
+			[
+				"Se",
+				"SessionDiv"
+			],
+			[
+				"Re",
+				"RefreshDivStyle"
+			],
+			[
+				"bo",
+				"borderColor"
+			],
+			[
+				"Cla",
+				"ClassDiv"
+			],
+			[
+				"inner",
+				"innerColor"
+			],
+			[
+				"b-w",
+				"border-width"
+			],
+			[
+				"divs",
+				"divs_"
+			],
+			[
+				"clas",
+				"classDivs_"
+			],
+			[
+				"width",
+				"widthPre"
+			],
+			[
+				"class",
+				"classesLen"
+			],
+			[
+				"Clas",
+				"ClassDiv"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"da",
+				"dateS"
+			],
+			[
+				"tim",
+				"timeS"
+			],
+			[
+				"se",
+				"sessions_"
+			],
+			[
+				"co",
+				"courseTitle"
+			],
+			[
+				"S",
+				"SessionsUpdate"
+			],
+			[
+				"Ses",
+				"SessionUpdate"
+			],
+			[
+				"ti",
+				"timeStart"
+			],
+			[
+				"cell",
+				"cellH"
+			],
+			[
+				"D",
+				"DrawSessionDiv"
+			],
+			[
+				"cel",
+				"cellW"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ce",
+				"cellW"
+			],
+			[
+				"fir",
+				"firstPanel"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"firs",
+				"firstCell"
+			],
+			[
+				"butt",
+				"button-inside"
+			],
+			[
+				"border-ri",
+				"border-right-width"
+			],
+			[
+				"courseT",
+				"courseTitle"
+			],
+			[
+				"in",
+				"inarray	$.inArray()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"resu",
+				"resultsLen"
+			],
+			[
+				"dat",
+				"data-value"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"addL",
+				"addResultsList"
+			],
+			[
+				"search",
+				"searchLen"
+			],
+			[
+				"Addre",
+				"addResultsList"
+			],
+			[
+				"courseTi",
+				"courseTitles_"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"tr",
+				"trans-time"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"first",
+				"firstChar"
+			],
+			[
+				"ev",
+				"evaluate"
+			],
+			[
+				"my",
+				"mysqli_escape_string"
+			],
+			[
+				"mys",
+				"mysqli_prepare"
+			],
+			[
+				"style",
+				"styleIndex"
+			],
+			[
+				"Ne",
+				"_NextStlye"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"clo",
+				"closeButton"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"me",
+				"meth	method"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"oci",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"pc",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pc re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/Dropbox/_Workspace/RubyTestApp"
+	],
+	"file_history":
+	[
+		"/H/Dropbox/_Workspace/_JavaScript/Test2/js/Main-1.1.0.js",
+		"/H/Dropbox/_Workspace/_JavaScript/Test2/css/print.css",
+		"/H/Dropbox/_Workspace/_JavaScript/Test2/resources/semester.psb",
+		"/H/Dropbox/_Workspace/_JavaScript/Test2/css/style.css",
+		"/H/Dropbox/_Workspace/Scheduler/js/_session.js",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_spinner.scss",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/GitGutter/Default (Windows).sublime-keymap",
+		"/H/Dropbox/_Workspace/Creative_Cook/index.html",
+		"/H/Dropbox/_Workspace/Scheduler/Gruntfile.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Ruby on Rails.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Ruby.sublime-settings",
+		"/H/Dropbox/_Workspace/Creative_Cook/README.md",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/user-timing.json",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/user-select-none.json",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-contrib-connect/node_modules/connect/examples/upload-stream.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/uglify.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/H/Dropbox/_Workspace/Scheduler/js/_course.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/H/Dropbox/_Workspace/Scheduler/js/_print.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/_add.js",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-contrib-jshint/node_modules/jshint/data/ascii-identifier-data.js",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-contrib-sass/AUTHORS",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/BeautifyRuby/Default (Windows).sublime-keymap",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+		"/H/Dropbox/_Workspace/Scheduler/js/libs/jquery-1.11.2.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Installed Packages/Inc-Dec-Value.sublime-package",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/localtunnel/node_modules/request/node_modules/form-data/node-form-data.sublime-project",
+		"/H/Dropbox/_Workspace/Creative_Cook/sublime.sublime-project",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-autoprefixer/node_modules/chalk/node_modules/.bin/supports-color",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/.svgo.yml",
+		"/H/Dropbox/_Workspace/Scheduler/.ftppass",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/vinyl-fs/node_modules/defaults/node_modules/clone/.travis.yml",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/deviceorientation.json",
+		"/H/Dropbox/_Workspace/Scheduler/resources/icomoon/demo-files/demo.css",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/immutable/contrib/cursor/index.d.ts",
+		"/H/Dropbox/_Workspace/Scheduler/index.html",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt-browser-sync/node_modules/browser-sync/node_modules/lodash/lang/isNative.js",
+		"/H/Dropbox/_Workspace/Scheduler/package.json",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_info.scss",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_custom.scss",
+		"/H/Dropbox/_Workspace/Scheduler/css/styles.scss",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_print.scss",
+		"/H/Dropbox/_Workspace/Scheduler/js/_button.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/_class.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/_custom.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/_info.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/_schedule.js",
+		"/H/Dropbox/_Workspace/Scheduler/.gitignore",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_table.scss",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_button.scss",
+		"/H/Dropbox/_Workspace/Scheduler/js/main.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/main - Copy.js",
+		"/H/Dropbox/_Workspace/_JavaScript/Test2/index.html",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_add.scss",
+		"/H/Dropbox/_Workspace/Scheduler/js/_canvas.js",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_course.scss",
+		"/H/Dropbox/_Workspace/Scheduler/node_modules/grunt/node_modules/hooker/parent.js",
+		"/H/Dropbox/_Workspace/Scheduler/build/css/styles.css",
+		"/H/Dropbox/_Workspace/Scheduler/css/build/styles.css.map",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/concat.js",
+		"/H/Dropbox/_Workspace/Scheduler/css/part/_all.scss",
+		"/C/xampp/htdocs/test/Init.php",
+		"/C/xampp/htdocs/test/scraper.php",
+		"/C/xampp/htdocs/test/addCourse.php",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/private_method.sublime-snippet",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/consolelog.sublime-snippet",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/ftp-deploy.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/H/Dropbox/_Workspace/_php/scraper/scraper.php",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/watch.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/deploy.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/htmlmin.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/imagemin.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/cssmin.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/connect.js",
+		"/C/xampp/htdocs/test/test1.php",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/H/Dropbox/_Workspace/Scheduler/js/build/production.js",
+		"/H/Dropbox/_Workspace/Scheduler/js/libs/jquery-1.11.1.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/var.sublime-snippet",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/method.sublime-snippet",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/private_var.sublime-snippet",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/jQueryJavaScript.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/sass.js",
+		"/H/Dropbox/_Workspace/Scheduler/css/build/styles.css",
+		"/H/Dropbox/_Workspace/Scheduler/css/build/styles.min.css",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/Gruntfile.js",
+		"/H/Dropbox/_Workspace/Scheduler/css/build/prefixed/styles.css",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/options/autoprefixer.js",
+		"/H/Dropbox/_Workspace/Scheduler/tasks/custom.js",
+		"/H/Dropbox/_Workspace/Scheduler/sub-proj.sublime-project",
+		"/H/Dropbox/_Workspace/Scheduler/sub-proj.sublime-workspace",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/package.json",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/index.html",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/css/sass/styles.scss",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/js/main.js",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sub-proj.sublime-project",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sass/_variables.scss",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sass/base/_typography.scss",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sass/base/_structure.scss",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sass/main.scss",
+		"/H/Dropbox/_Workspace/SRJC_Scheduler/sass/base/_all.scss"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.scss",
+			"*.js",
+			".js",
+			"sass",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font_face",
+			"font-face",
+			"theme",
+			"description",
+			"true",
+			"opaci",
+			";\n",
+			"#F5F5F5",
+			"$hue-semester:23;\n",
+			"add",
+			"semester",
+			"drawCl",
+			"this",
+			"HideClass",
+			"splice",
+			"display",
+			"temp.sessions.length",
+			"function",
+			"second-panel",
+			"table",
+			"int",
+			"style",
+			"borderWidth",
+			"borderW",
+			"border",
+			"divStyle",
+			"border",
+			"3",
+			"cycle",
+			"font-size",
+			"font-s",
+			"h4",
+			"_NextStlye",
+			"courseDiv",
+			";\n",
+			"searchActive",
+			"link",
+			"self",
+			"sessionList_[ k ]",
+			"sessionList",
+			"SessionList",
+			"sessionList",
+			"class-solo",
+			"visible",
+			"ToggleVisible",
+			"reomveClass",
+			"addClass",
+			"visible",
+			"Visible",
+			"visible",
+			"visibile",
+			"self",
+			"unlocked",
+			"Course",
+			"session",
+			"spli",
+			"clear",
+			"Ar",
+			"arr",
+			"Spli",
+			"spli",
+			"next",
+			"clas",
+			"classe",
+			"classe\\W",
+			"20",
+			"15",
+			"self",
+			"days",
+			"i",
+			"Popula",
+			"Pop",
+			"popu",
+			"DrawSessionDiv",
+			"rgb",
+			"rbg",
+			"r",
+			"this",
+			" classes_[ i ]",
+			"searchActive",
+			");\n",
+			"first",
+			"        _.cells.width(\"60px\");\n",
+			"li",
+			"results_[ i ]",
+			"#DADADA",
+			"black",
+			"white",
+			"courseTitle",
+			"log",
+			"this",
+			"var",
+			"};\n",
+			"Parse",
+			"classTitle",
+			"ParseCourseClassesAlt",
+			"&",
+			"\\t",
+			">\";\n",
+			"this",
+			"ParseClassData",
+			"add",
+			"searchActive",
+			"$( \".add-results\" )",
+			"$( \".add-bar\" )",
+			"this",
+			"enable",
+			"focus",
+			"selec",
+			"cellH",
+			"cellW",
+			"r",
+			"b",
+			"DrawRe",
+			"white_sp",
+			"press",
+			";\n",
+			"note",
+			"    this.hover = false;\n",
+			"addclas",
+			"monthtoday",
+			"[ j ]",
+			"classTemp",
+			"sessions",
+			"sessionTemp",
+			"courseText\\[ . \\]",
+			"courseText\\[ i \\]",
+			"courseText[ i ]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$light-gray",
+			"tableRowH",
+			"tableColW",
+			"[ i ]",
+			"classObj",
+			"sessions_",
+			"sessionObj",
+			"courseText",
+			"courseText_",
+			"$1_",
+			"classObj",
+			"i++",
+			"i <",
+			"course-header-height"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"H:\\Desktop\\ruby.rb"
+			],
+			[
+				".sublim",
+				"Scheduler\\node_modules\\grunt-browser-sync\\node_modules\\browser-sync\\node_modules\\localtunnel\\node_modules\\request\\node_modules\\form-data\\node-form-data.sublime-project"
+			],
+			[
+				"add",
+				"Scheduler/js/_add.js"
+			],
+			[
+				"parent",
+				"Scheduler/node_modules/grunt/node_modules/hooker/parent.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
